@@ -9,8 +9,9 @@
     "zh_CN": "自定义函数",
     "en_US": "Custom Function"
   },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": true,
   "longTaskMode": false,
-  "frontendSDKInvokable": false,
   "input": [],
   "output": []
 }
