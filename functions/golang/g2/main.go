@@ -1,4 +1,4 @@
-package g1
+package g2
 
 import (
 	"context"
