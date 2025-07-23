@@ -1,0 +1,25 @@
+{
+  "apiID": "package_90cf95__c__function_aadiqcxnpokbu",
+  "apiName": "fun_obj",
+  "label": {
+    "zh_CN": "函数-对象",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [
+    {
+      "key": "a",
+      "type": "Record",
+      "label": "a",
+      "required": false,
+      "description": "",
+      "objectApiName": "object_1ce4d7aba4f"
+    }
+  ],
+  "output": []
+}
