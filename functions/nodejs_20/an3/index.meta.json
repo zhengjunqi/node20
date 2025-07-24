@@ -11,6 +11,15 @@
   },
   "longTaskMode": true,
   "frontendSDKInvokable": true,
-  "input": [],
+  "input": [
+    {
+      "key": "aa",
+      "type": "Record",
+      "label": "aa",
+      "required": false,
+      "description": "",
+      "objectApiName": "object_a05f8222705"
+    }
+  ],
   "output": []
 }
