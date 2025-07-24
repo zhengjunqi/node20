@@ -14,11 +14,23 @@
   "input": [
     {
       "key": "aa",
-      "type": "Record",
+      "type": "RecordList",
       "label": "aa",
       "required": false,
       "description": "",
-      "objectApiName": "object_a05f8222705"
+      "objectApiName": "object_a05f8222705",
+      "fieldApiNames": [
+        "_name",
+        "text_1d6565d5ac3",
+        "option_565d5ac301c",
+        "lookup_aa8894c0b60",
+        "text_3922e212ad3",
+        "_id",
+        "_createdBy",
+        "_createdAt",
+        "_updatedBy",
+        "_updatedAt"
+      ]
     }
   ],
   "output": []
